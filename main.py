@@ -19,10 +19,12 @@ if __name__ == "__main__":
     num2 = float(input("Enter second number: "))
 
     print("Choose an operation:")
-    print("1. Addition")
-    print("2. Subtraction")
-    print("3. Multiplication")
-    print("4. Division")
+
+    print("1. +")
+    print("2. -")
+    print("3. *")
+    print("4. /")
+
 
     choice = input("Enter choice (1/2/3/4): ")
 
