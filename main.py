@@ -20,10 +20,14 @@ if __name__ == "__main__":
 
     print("Choose an operation:")
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bca8e61ad608ee1c56700b36df4567008f3ecd90
     print("1. Add")
     print("2. Subtract")
     print("3. Multiply")
     print("4. Divide")
+<<<<<<< HEAD
 =======
 
     print("1. +")
@@ -32,6 +36,8 @@ if __name__ == "__main__":
     print("4. /")
 
 >>>>>>> main
+=======
+>>>>>>> bca8e61ad608ee1c56700b36df4567008f3ecd90
 
     choice = input("Enter choice (1/2/3/4): ")
 
