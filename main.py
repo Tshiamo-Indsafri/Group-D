@@ -15,29 +15,14 @@ def Div(a:float, b:float):
 
 
 if __name__ == "__main__":
-    num1 = float(input("Enter first number: "))
-    num2 = float(input("Enter second number: "))
+    num1 = float(input("Enter 1 number: "))
+    num2 = float(input("Enter 2 number: "))
 
     print("Choose an operation:")
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> bca8e61ad608ee1c56700b36df4567008f3ecd90
     print("1. Add")
     print("2. Subtract")
     print("3. Multiply")
     print("4. Divide")
-<<<<<<< HEAD
-=======
-
-    print("1. +")
-    print("2. -")
-    print("3. *")
-    print("4. /")
-
->>>>>>> main
-=======
->>>>>>> bca8e61ad608ee1c56700b36df4567008f3ecd90
 
     choice = input("Enter choice (1/2/3/4): ")
 
