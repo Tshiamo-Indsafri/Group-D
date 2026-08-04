@@ -15,8 +15,8 @@ def Div(a:float, b:float):
 
 
 if __name__ == "__main__":
-    num1 = float(input("Enter first number: "))
-    num2 = float(input("Enter second number: "))
+    num1 = float(input("tsentsa first number: "))
+    num2 = float(input("tsentsa second number: "))
 
     print("Choose an operation:")
     print("1. Add")
