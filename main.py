@@ -5,7 +5,7 @@ def Sub(a:float, b:float):
     return a - b
 
 def Mul(a:float, b:float):
-    return a * b
+    return aa * bb
 
 def Div(a:float, b:float):
     if b == 0:
